@@ -1,6 +1,6 @@
 #Eagle Programing Language - EGP
 
-Aquila Programmazione lingua è un nuovo linguaggio di programmazione 
+Eagle Programing Language è un nuovo linguaggio di programmazione 
 con un compilatore e la sintassi tutto nella lingua Albanese.Questo progetto è stato come
 idea 3 anni fa visto che le scuole albanesi non insegnano a programmare agli studenti.
 Questo linguaggio ha una sintassi simile al Basic.Prima era pensato di eseguire codice 
