@@ -1,0 +1,6 @@
+{
+  "name": "Eagle-programing-language",
+  "tagline": "Eagle Programing Language - New programing language in Albanian syntax made to build web, desktop, mobile aplications",
+  "body": "Eagle Programing Language - EGP\r\n\r\nEagle Programing Language is an new programing language with a compiler and whole syntax in Albanian Language.\r\nThis project was as an idea 3 years ago since Albanian Schools do not teach programing to the students.\r\nThis language has an Basic like syntax.First i thinkd to execute EGP code to Java VM but being albanian language it made really difficult\r\nfor this, than an i created an indipendent virtual machine and parser with reads eagle programing language code.\r\nEGP stands for Eagle Programing Language,  and .egp is the file extention of the code container. .exf is stands for eagle executable file.\r\nMomentally this project has support only for Windows based OS's since in Albania Windows Operating System is the most used one.\r\nCurrently we are developing an Web Server wich will make possible to develop web applications.\r\nLater we plan to port the compiler and the virtual machine for mobile Os's such as iOS and Android",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
